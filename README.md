@@ -1,2 +1,4 @@
 # Java-Basic
-Learning java
+My first git repo
+By P.S.Bora
+Started Learning java
